@@ -132,7 +132,7 @@ python scripts/evaluate.py
 │  │  ├─ main.py
 │  │  └─ schemas.py
 │  ├─ reports/
-│  ├─ runtime/runs.db
+│  ├─ runtime/          # 首次启动时自动创建 runs.db
 │  ├─ scripts/
 │  ├─ tests/
 │  ├─ mcp_server.py
