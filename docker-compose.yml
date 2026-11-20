@@ -1,0 +1,18 @@
+services:
+  delta-agents:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: backend/.env
+        required: false
+    environment:
+      DATABASE_PATH: /app/backend/runtime/runs.db
+    volumes:
+      - delta-runtime:/app/backend/runtime
+    restart: unless-stopped
+
+volumes:
+  delta-runtime:
