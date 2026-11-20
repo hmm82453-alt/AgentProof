@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:14:05.000242+00:00",
+  "generatedAt": "2026-11-20T07:00:25.571804+00:00",
   "workflow": {
     "key": "extraction-default",
     "version": 1
@@ -9,7 +9,7 @@
     "passed": 8,
     "passRate": 1.0,
     "averageRounds": 2.75,
-    "averageElapsedSeconds": 0.668
+    "averageElapsedSeconds": 0.62
   },
   "scenarios": [
     {
@@ -24,11 +24,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "completed",
-      "runId": "9e618236f10d4c638630c16c690a7f23",
+      "runId": "12218797ee814aa39ce32574628f1088",
       "actualStatus": "completed",
       "round": 2,
       "score": 83,
-      "elapsedSeconds": 0.494,
+      "elapsedSeconds": 0.673,
       "eventCount": 49,
       "snapshots": 2,
       "passed": true
@@ -45,11 +45,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "completed",
-      "runId": "e0a17f10759f4315abe3e5b04590c18e",
+      "runId": "d58cdcc9fed6461d80bbd81e8bd95fca",
       "actualStatus": "completed",
       "round": 2,
       "score": 83,
-      "elapsedSeconds": 0.489,
+      "elapsedSeconds": 0.509,
       "eventCount": 49,
       "snapshots": 2,
       "passed": true
@@ -66,11 +66,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "rejected",
-      "runId": "5a6f21ebeca341dab14f91e50b351cad",
+      "runId": "9a952aa0597c410ab6633613910efff5",
       "actualStatus": "rejected",
       "round": 4,
       "score": 72,
-      "elapsedSeconds": 0.888,
+      "elapsedSeconds": 0.799,
       "eventCount": 87,
       "snapshots": 4,
       "passed": true
@@ -87,11 +87,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "completed",
-      "runId": "cfa7931846fc42ac902a746c8258e2cc",
+      "runId": "e0a455a9f986480096908e8cf3b98578",
       "actualStatus": "completed",
       "round": 2,
       "score": 83,
-      "elapsedSeconds": 0.516,
+      "elapsedSeconds": 0.459,
       "eventCount": 49,
       "snapshots": 2,
       "passed": true
@@ -108,11 +108,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "completed",
-      "runId": "87c2aaf06e994671aea7caa4581ce216",
+      "runId": "b21a7d60a71f41b6a785a9f1841f5fb9",
       "actualStatus": "completed",
       "round": 2,
       "score": 83,
-      "elapsedSeconds": 0.537,
+      "elapsedSeconds": 0.455,
       "eventCount": 49,
       "snapshots": 2,
       "passed": true
@@ -129,11 +129,11 @@
       ],
       "weight": 60,
       "expectedStatus": "rejected",
-      "runId": "c610a3682bfe417fa8dc277f92651165",
+      "runId": "efec13e99bfd42e99001c1fdf0521cf1",
       "actualStatus": "rejected",
       "round": 4,
       "score": 72,
-      "elapsedSeconds": 0.951,
+      "elapsedSeconds": 0.803,
       "eventCount": 87,
       "snapshots": 4,
       "passed": true
@@ -148,11 +148,11 @@
       ],
       "weight": 31.5,
       "expectedStatus": "rejected",
-      "runId": "5e35111d8a774894af213492cb5d8719",
+      "runId": "f7d71ce151b2428c9b7cc4c940937a1a",
       "actualStatus": "rejected",
       "round": 4,
       "score": 72,
-      "elapsedSeconds": 0.938,
+      "elapsedSeconds": 0.822,
       "eventCount": 87,
       "snapshots": 4,
       "passed": true
@@ -169,11 +169,11 @@
       ],
       "weight": 34.5,
       "expectedStatus": "completed",
-      "runId": "4b43dedcca9942db8192d0cce14d7f98",
+      "runId": "15c82557a35045559004fd1481bd95d7",
       "actualStatus": "completed",
       "round": 2,
       "score": 76,
-      "elapsedSeconds": 0.529,
+      "elapsedSeconds": 0.441,
       "eventCount": 49,
       "snapshots": 2,
       "passed": true
